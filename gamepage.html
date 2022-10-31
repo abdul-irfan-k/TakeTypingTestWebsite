@@ -1,0 +1,125 @@
+
+
+
+
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/gamepage.css">
+</head>
+
+<body>
+
+    <div class="navbar bg1 navbarm">
+
+        <div class="navlist leftitem">
+            <div class="logo logom logomiddle"><img src="images/image.jpg" alt=""></div>
+            <div class="navtextgroup visible">
+                <div class="navitem"><a href="index.html">Home</a></div>
+                <div class="navitem"><a href="#">Typing Test</a></div>
+                <div class="navitem"><a href="aboutpage.html">About</a></div>
+            </div>
+        </div>
+        <div class="navlist rightitem visible">
+            <textarea name="seachText" id="seachText" placeholder="search" rows="1" autofocus></textarea>
+            <button class="btnsm" id="seachbtn">seach</button>
+        </div>
+        
+        <div class="menu">
+            <div class="menuitem"></div>
+            <div class="menuitem"></div>
+            <div class="menuitem"></div>
+        </div> 
+    </div>
+    <div class="navbarsmall">
+        <p id="closebt">×</p>
+        <img src="images/image.jpg" alt="">
+        <div class="navitemsm"><a href="index.html">Home</a></div>
+        <div class="navitemsm"><a href="#">Typing Test</a></div>
+        <div class="navitemsm"><a href="gamepage.html">About</a></div>
+        <textarea name="seachTextsm" id="seachTextsm" placeholder="search" rows="1" autofocus></textarea>
+        <button class="btnsmsm" id="seachbtnsm">seach</button>
+    </div>
+ 
+
+    <!-- content -->
+    
+ 
+    <div class="gamecontainer">
+        <div class="timerBox">
+            <div class="minits" id="minits">Minit</div>
+            <div class="second" id="second">Second</div>
+            <div class="speed" id="speed">speed</div>
+        </div>
+        <div class="textcontainer">
+            <div class="textBox" id="textBox">Press start text button start match ...</div>
+            <textarea name="" id="inputBox" cols="120" rows="1" class="inputBox"></textarea>
+            <div class="buttondiv">
+
+                <button id="startBtn">Start Test </button>
+            </div>
+        </div>
+
+        <div class="resultcontainer" id="resultcontianer">
+            <h1>Typing Result</h1>
+            <div class="resultspeed">
+                <span>Speed</span>:
+                <span id="rspeed">53WPH</span>
+            </div>
+            <div class="resultaccuracy">
+                <span>Accuracy</span>:
+                <span id="raccuracy">90%</span>
+            </div>
+            <div class="resulttime">
+                <span>Time</span>:
+                <span id="rtime">60 Second</span>
+            </div>
+            <div class="resultworld">
+                <span>Word</span>:
+                <span id="rword">85</span>
+            </div>
+            <div class="resultcharacter">
+                <span>Character</span>:
+                <span id="rcharacter">418</span>
+            </div>
+        </div>
+
+        <div class="stats" id="stats">
+            <h1>Typed words</h1>
+            <div class="statscontent" id="statscontent"></div>
+
+        </div>
+
+    </div>
+
+    <div class="footer">
+        <h1>Thank You</h1>
+
+        <div class="footerlilnk">
+            <p class="bottom">Connect Throuh,</p>
+            <div class="firstfooter">
+                <div class="footeritem">
+                    <img src="images/logo1.png" alt="">
+                    <p class="footertext"><a href="https://github.com/irfan7k7">GitHub</a></p>
+                </div>
+                <div class="footeritem">
+                    <img src="images/logo2.png" alt="">
+                    <p class="footertext"><a href="#">GMail </a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+ 
+<script src="js/base.js"></script>
+<script src="data/dummy.json"></script>
+<script src="js/gamepage.js"></script>
+
+</html>
+    

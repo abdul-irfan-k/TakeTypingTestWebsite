@@ -1,0 +1,35 @@
+data =`[
+    {
+        "id": 0,
+        "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee"
+    },
+    {
+        "id": 1,
+        "text": "ontrary tZo popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and"
+    },
+    {
+        "id": 2,
+        "text": "A text message thread is the modern version of a novel. Watching how a conversation unfolds over iMessage or Messenger is like listening in on an intimate discussion between two people and can make for a funny, compelling, or emotional story to share with others. Popular on Snapchat, Instagram, and TikTok, these phony text story videos have become a popular format for bite-sized social media dramas and comedies."
+    },
+    {
+        "id": 3,
+        "text": "The easiest way to make a video of a text conversation is to just screen record a real text conversation. Ask a friend to help you and give them a script with detailed instructions. Then, delete your past text history with that friend and rename their contact info to represent whatever character you want to pretend to be texting with. Turn on screen recording when you're ready to have the conversation, and get it started! Once you stop the screen recording, you'll have a saved MP4 of the text message to share."
+    },
+    {
+        "id": 4,
+        "text": "It's not only writers who can benefit from this free online tool. If you're a programmer who's working on a project where blocks of text are needed, this tool can be a great way to get that. It's a good way to test your programming and that the tool being created is working well."
+    },
+    {
+        "id": 5,
+        "text": "Above are a few examples of how the random paragraph generator can be beneficial. The best way to see if this random paragraph picker will be useful for your intended purposes is to give it a try. Generate a number of paragraphs to see if they are beneficial to your current project."
+    },
+    {
+        "id": 6,
+        "text": "No! All of the paragraphs in the generator are written by humans, not computers. When first building this generator we thought about using computers to generate the paragraphs, but they weren't very good and many times didn't make any sense at all. We therefore took the time to create paragraphs specifically for this generator to make it the best that we could."
+    },
+    {
+        "id": 7,
+        "text": "If you do find this paragraph tool useful, please do us a favor and let us know how you're using it. It's greatly beneficial for us to know the different ways this tool is being used so we can improve it with updates. This is especially true since there are times when the generators we create get used in completely unanticipated ways from when we initially created them. If you have the time, please send us a quick note on what you'd like to see changed or added to make it better in the future."
+    }
+]`
+
